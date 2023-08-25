@@ -1,0 +1,33 @@
+.left{
+    color: brown;
+    text-align: left;
+
+}
+.right {
+    color: brown;
+    text-align: right;
+}
+.center{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+body{
+
+    font-family: 'Nunito Sans', sans-serif;
+} 
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+p{
+   text-align: center;
+}
+
+h2{
+    text-align: center;
+}
